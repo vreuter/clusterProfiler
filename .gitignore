@@ -6,3 +6,6 @@ vignettes/.DS_Store
 __pycache__
 __init__.py
 __init__.pyc
+clusterProfiler.pdf
+clusterProfiler.Rcheck/
+
