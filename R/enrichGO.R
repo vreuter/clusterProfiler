@@ -18,7 +18,7 @@
 ##' @return An \code{enrichResult} instance.
 ##' @importClassesFrom DOSE enrichResult
 ##' @importFrom DOSE setReadable
-##' @seealso \code{\link{enrichResult-class}}, \code{\link{compareCluster}}
+##' @seealso \code{\linkS4class[DOSE]{enrichResult-class}}, \code{\link{compareCluster}}
 ##' @keywords manip
 ##' @export
 ##' @author Guangchuang Yu \url{https://guangchuangyu.github.io}

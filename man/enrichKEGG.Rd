@@ -50,7 +50,7 @@ categories with FDR control.
 
 }
 \seealso{
-\code{\link{enrichResult-class}}, \code{\link{compareCluster}}
+\code{\linkS4class[DOSE]{enrichResult-class}}, \code{\link{compareCluster}}
 }
 \author{
 Guangchuang Yu \url{http://ygc.name}

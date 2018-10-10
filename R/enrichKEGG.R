@@ -19,7 +19,7 @@
 ##' @importMethodsFrom AnnotationDbi mget
 ##' @importClassesFrom methods data.frame
 ##' @author Guangchuang Yu \url{http://ygc.name}
-##' @seealso \code{\link{enrichResult-class}}, \code{\link{compareCluster}}
+##' @seealso \code{\linkS4class[DOSE]{enrichResult-class}}, \code{\link{compareCluster}}
 ##' @keywords manip
 ##' @examples
 ##'

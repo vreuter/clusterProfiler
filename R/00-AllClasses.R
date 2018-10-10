@@ -15,7 +15,7 @@
 ##' @author Guangchuang Yu \url{https://guangchuangyu.github.io}
 ##' @exportClass compareClusterResult
 ##' @seealso \code{\linkS4class{groupGOResult}}
-##'   \code{\linkS4class{enrichResult}} \code{\link{compareCluster}}
+##'   \code{\linkS4class[DOSE]{enrichResult-class}} \code{\link{compareCluster}}
 ##' @keywords classes
 setClass("compareClusterResult",
          representation = representation(
